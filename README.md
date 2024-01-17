@@ -1,16 +1,24 @@
-### Hi there 👋
+# 👾¡Bienvenido!👾
 
-<!--
-**isra0516/isra0516** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Desarrollador de Software
 
-Here are some ideas to get you started:
+¡Hola! 👋 Soy Israel, un apasionado desarrollador de software con experiencia en la creación de aplicaciones web y móviles eficientes y amigables para el usuario. Me especializo en usar Ionic Framework y Ruby on Rails para llevar ideas a la realidad.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 &nbsp;Tech Stack
+- 📱 &nbsp;Ionic Framework | Cordova/Capacitor
+- 💎 &nbsp;Ruby on Rails
+- 🗃 &nbsp;AWS S3 | Firebase | PostgreSQL
+- 🌐 &nbsp;HTML | CSS | SCSS | JavaScript | TypeScript
+- 🛢 &nbsp;MySQL | PostgreSQL
+- 🔧 &nbsp;GIT | Postman | VSCode
+
+
+### 👨🏻‍💻 &nbsp;Acerca de Mí
+- 📖 &nbsp;Autodidacta y siempre en busca de nuevos desafíos tecnológicos.
+- 💼 &nbsp;Comprometido con el desarrollo de software de alta calidad.
+- 🎯 &nbsp;Orientado a resultados, con una sólida capacidad para resolver problemas.
+- 🌀 &nbsp;Adepto a la metodología Agile y TDD.
+
+### 🤝 &nbsp;Contáctame
+- LinkedIn: [José Israel Juárez Valdez](https://www.linkedin.com/in/is-jz05)
+- Correo: [israel_jv0516@outlook.com](mailto:israel_jv0516@outlook.com)
