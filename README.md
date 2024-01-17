@@ -17,7 +17,6 @@
 - 📖 &nbsp;Autodidacta y siempre en busca de nuevos desafíos tecnológicos.
 - 💼 &nbsp;Comprometido con el desarrollo de software de alta calidad.
 - 🎯 &nbsp;Orientado a resultados, con una sólida capacidad para resolver problemas.
-- 🌀 &nbsp;Adepto a la metodología Agile y TDD.
 
 ### 🤝 &nbsp;Contáctame
 - LinkedIn: [José Israel Juárez Valdez](https://www.linkedin.com/in/is-jz05)
