@@ -7,7 +7,7 @@
 ### 🛠 &nbsp;Tech Stack
 - 📱 &nbsp;Ionic Framework | Cordova/Capacitor
 - 💎 &nbsp;Ruby on Rails
-- 🗃 &nbsp;AWS S3 | Firebase | PostgreSQL
+- 🗃 &nbsp;AWS S3 | Firebase
 - 🌐 &nbsp;HTML | CSS | SCSS | JavaScript | TypeScript
 - 🛢 &nbsp;MySQL | PostgreSQL
 - 🔧 &nbsp;GIT | Postman | VSCode
