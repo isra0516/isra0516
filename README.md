@@ -4,6 +4,15 @@
 
 ¡Hola! 👋 Soy Israel, un apasionado desarrollador de software con experiencia en la creación de aplicaciones web y móviles eficientes y amigables para el usuario. Me especializo en usar Angular, para llevar ideas a la realidad.
 
+## 👨🏻‍💻 &nbsp;Acerca de Mí
+- 📖 &nbsp;Autodidacta y siempre en busca de nuevos desafíos tecnológicos.
+- 💼 &nbsp;Comprometido con el desarrollo de software de alta calidad.
+- 🎯 &nbsp;Orientado a resultados, con una sólida capacidad para resolver problemas.
+
+## 🤝 &nbsp;Contáctame
+- LinkedIn: [José Israel Juárez Valdez](https://www.linkedin.com/in/is-jz05)
+- Correo: [israel_jv0516@outlook.com](mailto:israel_jv0516@outlook.com)
+
 ## 🛠️ Mis herramientas favoritas
 ### Lenguajes de programación
 <p>
@@ -46,11 +55,3 @@
     <img src="https://img.shields.io/badge/mongodb%20-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
-### 👨🏻‍💻 &nbsp;Acerca de Mí
-- 📖 &nbsp;Autodidacta y siempre en busca de nuevos desafíos tecnológicos.
-- 💼 &nbsp;Comprometido con el desarrollo de software de alta calidad.
-- 🎯 &nbsp;Orientado a resultados, con una sólida capacidad para resolver problemas.
-
-### 🤝 &nbsp;Contáctame
-- LinkedIn: [José Israel Juárez Valdez](https://www.linkedin.com/in/is-jz05)
-- Correo: [israel_jv0516@outlook.com](mailto:israel_jv0516@outlook.com)
