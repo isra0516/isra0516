@@ -29,6 +29,8 @@
     <img src="https://img.shields.io/badge/NgRx%20-%23BA2BD2.svg?&style=for-the-badge&logo=ngrx&logoColor=white"/>
     <img src="https://img.shields.io/badge/Ruby on Rails%20-%23D30001.svg?&style=for-the-badge&logo=rubyonrails&logoColor=white"/>
     <img src="https://img.shields.io/badge/astro%20-%23BC52EE.svg?&style=for-the-badge&logo=astro&logoColor=white"/>
+    <img src="https://img.shields.io/badge/tailwindcss%20-%2306B6D4.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+    <img src="https://img.shields.io/badge/primeng%20-%23DD0031.svg?&style=for-the-badge&logo=primeng&logoColor=white"/>
 </p>
 
 ### Herramientas de desarrollo
